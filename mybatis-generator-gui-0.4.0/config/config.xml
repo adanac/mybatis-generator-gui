@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<GeneratorConfig>
+<Current>{"modelPackage":"com.adanac.mybatis","connectorJarPath":"D:\\Dev\\apache-tomcat-8.0.33(1)\\lib\\mysql-connector-java-5.1.38.jar","domainObjectName":"","offsetLimit":true,"daoTargetFolder":"src/main/java","comment":true,"daoPackage":"com.adanac.mybatis","mappingXMLPackage":"com.adanac.mybatis","mappingXMLTargetFolder":"src/main/resources","modelPackageTargetFolder":"src/main/java","projectFolder":"E:\\workspace\\javatest","tableName":""}</Current>
+</GeneratorConfig>
+</configuration>

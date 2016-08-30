@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<mybatis-test>
+<dbType>MySQL</dbType>
+<host>192.168.1.173</host>
+<port>3306</port>
+<userName>root</userName>
+<password>root</password>
+<schema>demo</schema>
+<encoding>utf8</encoding>
+</mybatis-test>
+</configuration>
